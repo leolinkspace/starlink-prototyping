@@ -1,0 +1,4186 @@
+{
+    "44235": {
+        "name": "STARLINK-0001",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 447.5213447557781,
+        "perigee": 439.6150827142028,
+        "period": 93.30764854555781
+    },
+    "44236": {
+        "name": "STARLINK-0002",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 371.1145637478968,
+        "perigee": 365.202973675983,
+        "period": 91.76313919318436
+    },
+    "44237": {
+        "name": "STARLINK-0003",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.64118952187056,
+        "perigee": 441.11782966352536,
+        "period": 93.27296712946185
+    },
+    "44239": {
+        "name": "STARLINK-0005",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.7030973812696,
+        "perigee": 440.98489812503664,
+        "period": 93.27223785845646
+    },
+    "44241": {
+        "name": "STARLINK-0007",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.6060458187368,
+        "perigee": 441.1085797813833,
+        "period": 93.2725112959877
+    },
+    "44242": {
+        "name": "STARLINK-0008",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 399.77180382859893,
+        "perigee": 399.4684800462397,
+        "period": 92.40647494788143
+    },
+    "44243": {
+        "name": "STARLINK-0009",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 406.64493085884584,
+        "perigee": 395.354652805903,
+        "period": 92.43472090064911
+    },
+    "44244": {
+        "name": "STARLINK-0010",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.73528491968193,
+        "perigee": 441.0129903376894,
+        "period": 93.27285681070676
+    },
+    "44245": {
+        "name": "STARLINK-0011",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 455.182932641875,
+        "perigee": 450.33124135302006,
+        "period": 93.49643845023395
+    },
+    "44247": {
+        "name": "STARLINK-0013",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 364.27615831628907,
+        "perigee": 362.4659593756711,
+        "period": 91.6653694425478
+    },
+    "44248": {
+        "name": "STARLINK-0015",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 367.655387267638,
+        "perigee": 366.0679470588546,
+        "period": 91.73664767104783
+    },
+    "44250": {
+        "name": "STARLINK-0017",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.26915065507495,
+        "perigee": 441.4774947749758,
+        "period": 93.27284007562815
+    },
+    "44251": {
+        "name": "STARLINK-0018",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.7731931438064,
+        "perigee": 441.0713251634696,
+        "period": 93.27384503680815
+    },
+    "44252": {
+        "name": "STARLINK-0019",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 536.5374296492589,
+        "perigee": 535.9365000333181,
+        "period": 95.21738791222838
+    },
+    "44253": {
+        "name": "STARLINK-0020",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.6522201128658,
+        "perigee": 441.08934755505436,
+        "period": 93.27278793713657
+    },
+    "44254": {
+        "name": "STARLINK-0021",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.74561055998134,
+        "perigee": 440.98516614363155,
+        "period": 93.27267713548356
+    },
+    "44255": {
+        "name": "STARLINK-0022",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 389.3247038685503,
+        "perigee": 388.2742310313089,
+        "period": 92.18504011182354
+    },
+    "44256": {
+        "name": "STARLINK-0023",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 378.5709034876749,
+        "perigee": 372.1362314550206,
+        "period": 91.91012938702079
+    },
+    "44257": {
+        "name": "STARLINK-0024",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 477.8352173186289,
+        "perigee": 477.1846088768849,
+        "period": 94.0056297660695
+    },
+    "44258": {
+        "name": "STARLINK-0025",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.68269345909914,
+        "perigee": 440.95904977857975,
+        "period": 93.27176294126976
+    },
+    "44259": {
+        "name": "STARLINK-0026",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 382.97253351263606,
+        "perigee": 381.9419559370913,
+        "period": 92.05533488116025
+    },
+    "44260": {
+        "name": "STARLINK-0027",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.49970351560785,
+        "perigee": 441.20253666234294,
+        "period": 93.27238412256617
+    },
+    "44261": {
+        "name": "STARLINK-0028",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.37176311650313,
+        "perigee": 441.2871606661696,
+        "period": 93.27193935060025
+    },
+    "44262": {
+        "name": "STARLINK-0029",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.616313478536,
+        "perigee": 440.98669135915765,
+        "period": 93.2713651769266
+    },
+    "44263": {
+        "name": "STARLINK-0030",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.77008372373876,
+        "perigee": 440.948325172469,
+        "period": 93.27255014285497
+    },
+    "44264": {
+        "name": "STARLINK-0031",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.778280351649,
+        "perigee": 440.976955509468,
+        "period": 93.27292828224724
+    },
+    "44265": {
+        "name": "STARLINK-0032",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.6393904063329,
+        "perigee": 441.10240673161576,
+        "period": 93.27279029333596
+    },
+    "44266": {
+        "name": "STARLINK-0033",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.64348060626725,
+        "perigee": 441.0765228058752,
+        "period": 93.27256651533907
+    },
+    "44267": {
+        "name": "STARLINK-0034",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.5907223278461,
+        "perigee": 441.03467590736784,
+        "period": 93.27159511136857
+    },
+    "44268": {
+        "name": "STARLINK-0035",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 399.4246328437524,
+        "perigee": 399.0482076987857,
+        "period": 92.39861941986803
+    },
+    "44269": {
+        "name": "STARLINK-0036",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.6106760491384,
+        "perigee": 441.14590721643714,
+        "period": 93.27294211741017
+    },
+    "44270": {
+        "name": "STARLINK-0037",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 395.83874429069834,
+        "perigee": 395.4760514541725,
+        "period": 92.32536060011377
+    },
+    "44271": {
+        "name": "STARLINK-0038",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.4207375210002,
+        "perigee": 441.2829912596466,
+        "period": 93.27239940752439
+    },
+    "44272": {
+        "name": "STARLINK-0040",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.45183054670133,
+        "perigee": 441.2432313947072,
+        "period": 93.27231041651386
+    },
+    "44274": {
+        "name": "STARLINK-0042",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 367.77155954977405,
+        "perigee": 365.9738951061228,
+        "period": 91.73687354898188
+    },
+    "44275": {
+        "name": "STARLINK-0043",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 462.9475905011324,
+        "perigee": 454.96883331797926,
+        "period": 93.62391546617093
+    },
+    "44276": {
+        "name": "STARLINK-0044",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 444.6947824265547,
+        "perigee": 443.2922567602228,
+        "period": 93.31638385515383
+    },
+    "44277": {
+        "name": "STARLINK-0045",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 367.8398992874389,
+        "perigee": 365.9209509423664,
+        "period": 91.73703075834277
+    },
+    "44279": {
+        "name": "STARLINK-0047",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 437.405561104537,
+        "perigee": 435.5580105478633,
+        "period": 93.1621413083204
+    },
+    "44280": {
+        "name": "STARLINK-0048",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.5863744638916,
+        "perigee": 441.09844968109485,
+        "period": 93.27220529496866
+    },
+    "44281": {
+        "name": "STARLINK-0049",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 476.195656115937,
+        "perigee": 475.2549160616286,
+        "period": 93.96888730861063
+    },
+    "44283": {
+        "name": "STARLINK-0051",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.74940099326614,
+        "perigee": 440.9957675900692,
+        "period": 93.27282491135634
+    },
+    "44284": {
+        "name": "STARLINK-0052",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.69066501259243,
+        "perigee": 441.10462244113256,
+        "period": 93.27333953270698
+    },
+    "44285": {
+        "name": "STARLINK-0053",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.9209612055263,
+        "perigee": 441.04057851304486,
+        "period": 93.27504662035811
+    },
+    "44286": {
+        "name": "STARLINK-0054",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 406.0244543449329,
+        "perigee": 394.98825328948163,
+        "period": 92.42461827754938
+    },
+    "44287": {
+        "name": "STARLINK-0055",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.5547270831438,
+        "perigee": 441.1976021511517,
+        "period": 93.27289843697525
+    },
+    "44288": {
+        "name": "STARLINK-0056",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.57937661923097,
+        "perigee": 440.99199755414014,
+        "period": 93.27104039494856
+    },
+    "44289": {
+        "name": "STARLINK-0057",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 513.345344057627,
+        "perigee": 512.6872321004868,
+        "period": 94.7376404568662
+    },
+    "44290": {
+        "name": "STARLINK-0058",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.68481706205756,
+        "perigee": 441.03338001657187,
+        "period": 93.27254796791289
+    },
+    "44291": {
+        "name": "STARLINK-0059",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.6263296541292,
+        "perigee": 441.0648254477549,
+        "period": 93.27227030113762
+    },
+    "44292": {
+        "name": "STARLINK-0060",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.6999462822825,
+        "perigee": 441.0212574299853,
+        "period": 93.2725788400172
+    },
+    "44293": {
+        "name": "STARLINK-0061",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.5949836684065,
+        "perigee": 441.079808631503,
+        "period": 93.27210228816715
+    },
+    "44294": {
+        "name": "STARLINK-0062",
+        "mission": 0,
+        "version": 0.9,
+        "apogee": 442.77765706600997,
+        "perigee": 440.98586916231085,
+        "period": 93.2730134078344
+    },
+    "44713": {
+        "name": "STARLINK-0101",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6135608696164,
+        "perigee": 556.0838918708339,
+        "period": 95.64391045244834
+    },
+    "44714": {
+        "name": "STARLINK-0102",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.8955984334797,
+        "perigee": 555.9086761005111,
+        "period": 95.64501651807036
+    },
+    "44715": {
+        "name": "STARLINK-0103",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6564249652643,
+        "perigee": 556.0491631170464,
+        "period": 95.64399468812381
+    },
+    "44716": {
+        "name": "STARLINK-0104",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 574.7272521821521,
+        "perigee": 573.0563112194752,
+        "period": 95.99706479374687
+    },
+    "44717": {
+        "name": "STARLINK-0105",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.3957408940662,
+        "perigee": 556.2235555015914,
+        "period": 95.64310120037786
+    },
+    "44718": {
+        "name": "STARLINK-0106",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.7791611821502,
+        "perigee": 556.0264017784353,
+        "period": 95.64502985886062
+    },
+    "44719": {
+        "name": "STARLINK-0107",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.7482244529547,
+        "perigee": 556.0495036514895,
+        "period": 95.64494873420784
+    },
+    "44720": {
+        "name": "STARLINK-0108",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 561.1733484292664,
+        "perigee": 552.6173976435662,
+        "period": 95.64487643999738
+    },
+    "44721": {
+        "name": "STARLINK-0109",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6925255837953,
+        "perigee": 556.0547762527186,
+        "period": 95.64442660475153
+    },
+    "44722": {
+        "name": "STARLINK-0110",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6598944255002,
+        "perigee": 555.9265605599815,
+        "period": 95.64276115215749
+    },
+    "44723": {
+        "name": "STARLINK-0111",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.3088592337342,
+        "perigee": 556.4304053643588,
+        "period": 95.64434338474196
+    },
+    "44724": {
+        "name": "STARLINK-0112",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6956923608398,
+        "perigee": 556.0884214036428,
+        "period": 95.64480776695139
+    },
+    "44725": {
+        "name": "STARLINK-0113",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.3676125765732,
+        "perigee": 556.3131952670961,
+        "period": 95.64373810646455
+    },
+    "44726": {
+        "name": "STARLINK-0115",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6897376898406,
+        "perigee": 556.0104268299006,
+        "period": 95.64393853099035
+    },
+    "44727": {
+        "name": "STARLINK-0116",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.8594029753888,
+        "perigee": 555.855866547416,
+        "period": 95.64409493258258
+    },
+    "44728": {
+        "name": "STARLINK-0117",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6925057094908,
+        "perigee": 556.0658396797422,
+        "period": 95.6445409530925
+    },
+    "44729": {
+        "name": "STARLINK-0118",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.675401457537,
+        "perigee": 555.7467266972977,
+        "period": 95.64105967687902
+    },
+    "44730": {
+        "name": "STARLINK-0119",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6946206621611,
+        "perigee": 555.9903714081365,
+        "period": 95.64378143112448
+    },
+    "44731": {
+        "name": "STARLINK-0120",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.8107612532582,
+        "perigee": 555.9554741543373,
+        "period": 95.64462264879688
+    },
+    "44732": {
+        "name": "STARLINK-0121",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.7822941806363,
+        "perigee": 555.9948989227256,
+        "period": 95.64473610822593
+    },
+    "44733": {
+        "name": "STARLINK-0122",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.8596802148772,
+        "perigee": 555.8090412441018,
+        "period": 95.64361296067317
+    },
+    "44734": {
+        "name": "STARLINK-0123",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 394.84761041226795,
+        "perigee": 389.28701646715774,
+        "period": 92.25189481355928
+    },
+    "44735": {
+        "name": "STARLINK-0124",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.7893171959045,
+        "perigee": 555.8661522167502,
+        "period": 95.64347574535951
+    },
+    "44736": {
+        "name": "STARLINK-0125",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6711060164636,
+        "perigee": 555.9114470322263,
+        "period": 95.64272075054944
+    },
+    "44737": {
+        "name": "STARLINK-0126",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.4231156194518,
+        "perigee": 556.2592383017223,
+        "period": 95.64375411498534
+    },
+    "44738": {
+        "name": "STARLINK-0151",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.7637279752483,
+        "perigee": 555.9514004364516,
+        "period": 95.64409347147678
+    },
+    "44739": {
+        "name": "STARLINK-0128",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.4246667848844,
+        "perigee": 556.3037383569088,
+        "period": 95.64423094266895
+    },
+    "44740": {
+        "name": "STARLINK-0129",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6951708422135,
+        "perigee": 556.1460877894983,
+        "period": 95.6453994637581
+    },
+    "44741": {
+        "name": "STARLINK-0130",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6851662378153,
+        "perigee": 555.8146737594158,
+        "period": 95.6418643207191
+    },
+    "44743": {
+        "name": "STARLINK-0132",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6629694340611,
+        "perigee": 555.8728342082305,
+        "period": 95.64223669620173
+    },
+    "44744": {
+        "name": "STARLINK-0133",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6419310339923,
+        "perigee": 556.1136411943752,
+        "period": 95.64451223892783
+    },
+    "44746": {
+        "name": "STARLINK-0135",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.4000859922804,
+        "perigee": 556.2459106807578,
+        "period": 95.6433776620618
+    },
+    "44747": {
+        "name": "STARLINK-0136",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6362696155729,
+        "perigee": 556.098283080224,
+        "period": 95.6442945962846
+    },
+    "44748": {
+        "name": "STARLINK-0137",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.4420125378957,
+        "perigee": 556.1451295813937,
+        "period": 95.64276826690961
+    },
+    "44749": {
+        "name": "STARLINK-0138",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.7583723750422,
+        "perigee": 556.020857659596,
+        "period": 95.64475719925808
+    },
+    "44750": {
+        "name": "STARLINK-0140",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.3072517024325,
+        "perigee": 556.2957926801928,
+        "period": 95.64293292289726
+    },
+    "44751": {
+        "name": "STARLINK-0141",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.3970421873778,
+        "perigee": 556.2955146291107,
+        "period": 95.64385975865181
+    },
+    "44752": {
+        "name": "STARLINK-0142",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.4246005237959,
+        "perigee": 556.1457313821613,
+        "period": 95.64259420988475
+    },
+    "44753": {
+        "name": "STARLINK-0143",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6699556726664,
+        "perigee": 556.1596702434412,
+        "period": 95.64527901468433
+    },
+    "44754": {
+        "name": "STARLINK-0144",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.7422992247585,
+        "perigee": 556.0920693514607,
+        "period": 95.6453281217859
+    },
+    "44755": {
+        "name": "STARLINK-0145",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.5925390539235,
+        "perigee": 556.2402097776373,
+        "period": 95.64531135040271
+    },
+    "44756": {
+        "name": "STARLINK-0146",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.4222630450483,
+        "perigee": 556.2514586155685,
+        "period": 95.64366473414613
+    },
+    "44757": {
+        "name": "STARLINK-0147",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.4051358725615,
+        "perigee": 556.2745124132615,
+        "period": 95.64372610007747
+    },
+    "44758": {
+        "name": "STARLINK-0148",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6629144381694,
+        "perigee": 556.0279429170014,
+        "period": 95.64384216194553
+    },
+    "44759": {
+        "name": "STARLINK-0149",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.8027648122404,
+        "perigee": 555.9807292827666,
+        "period": 95.64480135069589
+    },
+    "44760": {
+        "name": "STARLINK-0150",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.5439663890833,
+        "perigee": 556.0628020255398,
+        "period": 95.64297148246396
+    },
+    "44761": {
+        "name": "STARLINK-0151",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6912388007017,
+        "perigee": 555.9481993593815,
+        "period": 95.6433097534716
+    },
+    "44762": {
+        "name": "STARLINK-0152",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6185630944427,
+        "perigee": 555.8173564249054,
+        "period": 95.64120247523974
+    },
+    "44763": {
+        "name": "STARLINK-0153",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.8308683730047,
+        "perigee": 555.9090772425476,
+        "period": 95.6443504362028
+    },
+    "44764": {
+        "name": "STARLINK-0154",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.3444275868395,
+        "perigee": 556.3565161095541,
+        "period": 95.64394659880978
+    },
+    "44765": {
+        "name": "STARLINK-0155",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.8065275554676,
+        "perigee": 556.143813514539,
+        "period": 95.64652894269678
+    },
+    "44766": {
+        "name": "STARLINK-0156",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6158447054411,
+        "perigee": 556.221947423553,
+        "period": 95.64536357041061
+    },
+    "44767": {
+        "name": "STARLINK-0157",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6711744853975,
+        "perigee": 556.0971592026902,
+        "period": 95.6446443750497
+    },
+    "44768": {
+        "name": "STARLINK-0158",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.6323232205455,
+        "perigee": 556.0846396357948,
+        "period": 95.6441124658555
+    },
+    "44769": {
+        "name": "STARLINK-0159",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.4737296978543,
+        "perigee": 556.2641237832457,
+        "period": 95.64432877361018
+    },
+    "44771": {
+        "name": "STARLINK-0161",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.5709329771688,
+        "perigee": 556.1410235032597,
+        "period": 95.64406062837152
+    },
+    "44772": {
+        "name": "STARLINK-0162",
+        "mission": 1,
+        "version": 1.0,
+        "apogee": 557.5955169189526,
+        "perigee": 556.1960819674647,
+        "period": 95.6448852703037
+    },
+    "44914": {
+        "name": "STARLINK-0201",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.9291054877266,
+        "perigee": 555.8022507245485,
+        "period": 95.64426149893497
+    },
+    "44915": {
+        "name": "STARLINK-0202",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8483049773517,
+        "perigee": 555.8073668968846,
+        "period": 95.64347784170164
+    },
+    "44916": {
+        "name": "STARLINK-0203",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.9492421580385,
+        "perigee": 555.8376202402087,
+        "period": 95.6448362271842
+    },
+    "44917": {
+        "name": "STARLINK-0204",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.6779285029704,
+        "perigee": 556.0194015325652,
+        "period": 95.64390918192647
+    },
+    "44918": {
+        "name": "STARLINK-0205",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.9497783775665,
+        "perigee": 555.8852589570032,
+        "period": 95.64533504633597
+    },
+    "44919": {
+        "name": "STARLINK-0206",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.812127083661,
+        "perigee": 555.6783815453323,
+        "period": 95.6417677017611
+    },
+    "44920": {
+        "name": "STARLINK-0207",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.9582673981059,
+        "perigee": 555.8577256935537,
+        "period": 95.64513785587111
+    },
+    "44921": {
+        "name": "STARLINK-0208",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8159962785002,
+        "perigee": 555.8914385158075,
+        "period": 95.64401380951577
+    },
+    "44922": {
+        "name": "STARLINK-0209",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.9107173926094,
+        "perigee": 555.7464637409159,
+        "period": 95.64349346898206
+    },
+    "44923": {
+        "name": "STARLINK-0210",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8853744580048,
+        "perigee": 555.9594120326824,
+        "period": 95.64543599241372
+    },
+    "44924": {
+        "name": "STARLINK-0211",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8427899948051,
+        "perigee": 555.7907706644712,
+        "period": 95.64324889627625
+    },
+    "44925": {
+        "name": "STARLINK-0212",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8574816944133,
+        "perigee": 555.9938696876522,
+        "period": 95.64550396755152
+    },
+    "44926": {
+        "name": "STARLINK-0213",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.840326171265,
+        "perigee": 555.8520343175344,
+        "period": 95.64385772581899
+    },
+    "44927": {
+        "name": "STARLINK-0215",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8723508891761,
+        "perigee": 555.8701960911378,
+        "period": 95.64437737152227
+    },
+    "44928": {
+        "name": "STARLINK-0216",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.801428885174,
+        "perigee": 555.9406027303282,
+        "period": 95.64437203527854
+    },
+    "44929": {
+        "name": "STARLINK-0217",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.9126994568659,
+        "perigee": 555.959021544205,
+        "period": 95.64571488167819
+    },
+    "44930": {
+        "name": "STARLINK-0218",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.7606142724557,
+        "perigee": 555.9635268513523,
+        "period": 95.64418679175779
+    },
+    "44931": {
+        "name": "STARLINK-0219",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.887499121734,
+        "perigee": 555.8313104503937,
+        "period": 95.64413158729455
+    },
+    "44932": {
+        "name": "STARLINK-0220",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 558.1230285520553,
+        "perigee": 555.7190399531694,
+        "period": 95.64540784946439
+    },
+    "44933": {
+        "name": "STARLINK-0221",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8404960236829,
+        "perigee": 555.8120284940935,
+        "period": 95.64344525312107
+    },
+    "44934": {
+        "name": "STARLINK-0222",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.839634774073,
+        "perigee": 555.8915189738563,
+        "period": 95.64425940255849
+    },
+    "44935": {
+        "name": "STARLINK-0223",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.7143485093405,
+        "perigee": 555.9532931520855,
+        "period": 95.64360178015139
+    },
+    "44936": {
+        "name": "STARLINK-0224",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.9452970408211,
+        "perigee": 555.8766228281846,
+        "period": 95.64519922369281
+    },
+    "44937": {
+        "name": "STARLINK-0225",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8840188126862,
+        "perigee": 555.8887875285726,
+        "period": 95.64469068630572
+    },
+    "44938": {
+        "name": "STARLINK-0226",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.6178443288281,
+        "perigee": 556.0673931507542,
+        "period": 95.64378397216146
+    },
+    "44939": {
+        "name": "STARLINK-0227",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.802246630665,
+        "perigee": 555.8305900780009,
+        "period": 95.64324140030138
+    },
+    "44940": {
+        "name": "STARLINK-0228",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.6772477392415,
+        "perigee": 556.0048669080036,
+        "period": 95.64375163747582
+    },
+    "44941": {
+        "name": "STARLINK-0229",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8403025765978,
+        "perigee": 555.8755620669909,
+        "period": 95.64410109463789
+    },
+    "44942": {
+        "name": "STARLINK-0230",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8576048557013,
+        "perigee": 555.8180493993946,
+        "period": 95.64368474476727
+    },
+    "44943": {
+        "name": "STARLINK-0231",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.6596030008151,
+        "perigee": 555.8154392726886,
+        "period": 95.64160755992073
+    },
+    "44944": {
+        "name": "STARLINK-0232",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.777868096116,
+        "perigee": 555.9572245049486,
+        "period": 95.64430018662614
+    },
+    "44945": {
+        "name": "STARLINK-0233",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.855017011703,
+        "perigee": 555.7337263750909,
+        "period": 95.64278484682715
+    },
+    "44946": {
+        "name": "STARLINK-0234",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 558.1380041722059,
+        "perigee": 554.8349786131103,
+        "period": 95.63640918078845
+    },
+    "44947": {
+        "name": "STARLINK-0235",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8316763752802,
+        "perigee": 555.8697090591024,
+        "period": 95.64395117269224
+    },
+    "44949": {
+        "name": "STARLINK-0237",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8549072001185,
+        "perigee": 555.8347476484412,
+        "period": 95.64382971085041
+    },
+    "44950": {
+        "name": "STARLINK-0238",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.718332676745,
+        "perigee": 555.983598794925,
+        "period": 95.6439568265198
+    },
+    "44951": {
+        "name": "STARLINK-0240",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 558.0833093364695,
+        "perigee": 555.4022728763111,
+        "period": 95.64171669262007
+    },
+    "44952": {
+        "name": "STARLINK-0241",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8522663899371,
+        "perigee": 555.933240097289,
+        "period": 95.64482218764759
+    },
+    "44953": {
+        "name": "STARLINK-0242",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.712813186734,
+        "perigee": 555.9850076684737,
+        "period": 95.64391426401417
+    },
+    "44954": {
+        "name": "STARLINK-0243",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 558.0130038142559,
+        "perigee": 555.6852465082015,
+        "period": 95.64391871084133
+    },
+    "44955": {
+        "name": "STARLINK-0244",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8069887238797,
+        "perigee": 556.0542222806877,
+        "period": 95.64560605749607
+    },
+    "44956": {
+        "name": "STARLINK-0245",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.7520308903419,
+        "perigee": 555.9355502484543,
+        "period": 95.64380823907155
+    },
+    "44957": {
+        "name": "STARLINK-0246",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.9134024130963,
+        "perigee": 555.8766012825528,
+        "period": 95.6448687531853
+    },
+    "44958": {
+        "name": "STARLINK-0247",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8271666735467,
+        "perigee": 555.9372404084205,
+        "period": 95.64460371774254
+    },
+    "44959": {
+        "name": "STARLINK-0248",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.6973869837783,
+        "perigee": 555.9834392655715,
+        "period": 95.64373829704213
+    },
+    "44960": {
+        "name": "STARLINK-0249",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8210484510753,
+        "perigee": 555.872937876598,
+        "period": 95.64387456021842
+    },
+    "44961": {
+        "name": "STARLINK-0250",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8555371288024,
+        "perigee": 555.8589286742797,
+        "period": 95.6440866106328
+    },
+    "44962": {
+        "name": "STARLINK-0251",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.7984596577567,
+        "perigee": 555.8531261751056,
+        "period": 95.64343553372414
+    },
+    "44963": {
+        "name": "STARLINK-0252",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.7277521198951,
+        "perigee": 556.0234947165344,
+        "period": 95.64446745248861
+    },
+    "44964": {
+        "name": "STARLINK-0253",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8383685870655,
+        "perigee": 555.8140577675747,
+        "period": 95.64344423671345
+    },
+    "44966": {
+        "name": "STARLINK-0255",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.7399250783408,
+        "perigee": 555.9899463955732,
+        "period": 95.64424612550971
+    },
+    "44967": {
+        "name": "STARLINK-0256",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.7835323294271,
+        "perigee": 555.8853056986173,
+        "period": 95.64361416766147
+    },
+    "44968": {
+        "name": "STARLINK-0257",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 558.1218889161833,
+        "perigee": 555.5045610797787,
+        "period": 95.64317527060794
+    },
+    "44969": {
+        "name": "STARLINK-0258",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.7881408819519,
+        "perigee": 555.9051521634274,
+        "period": 95.64386738177568
+    },
+    "44970": {
+        "name": "STARLINK-0259",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.8920620851777,
+        "perigee": 555.8234037661264,
+        "period": 95.64409696542548
+    },
+    "44971": {
+        "name": "STARLINK-0260",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.7571817611279,
+        "perigee": 555.9254605158186,
+        "period": 95.6437571007021
+    },
+    "44972": {
+        "name": "STARLINK-0261",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.6221082204776,
+        "perigee": 556.0702706740415,
+        "period": 95.64385791639705
+    },
+    "44973": {
+        "name": "STARLINK-0262",
+        "mission": 2,
+        "version": 1.0,
+        "apogee": 557.91923932245,
+        "perigee": 555.752212307415,
+        "period": 95.64364122961771
+    },
+    "45044": {
+        "name": "STARLINK-0301",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.6061901576165,
+        "perigee": 556.0432728981841,
+        "period": 95.64341355391879
+    },
+    "45045": {
+        "name": "STARLINK-0302",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7075804402353,
+        "perigee": 555.8440087514892,
+        "period": 95.64240014340143
+    },
+    "45046": {
+        "name": "STARLINK-0303",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.8182939766003,
+        "perigee": 555.9643902534507,
+        "period": 95.64479296509593
+    },
+    "45047": {
+        "name": "STARLINK-0304",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.5587704148861,
+        "perigee": 556.073446641218,
+        "period": 95.64323498425603
+    },
+    "45048": {
+        "name": "STARLINK-0305",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.8330722868052,
+        "perigee": 555.9279051524074,
+        "period": 95.64456820615412
+    },
+    "45049": {
+        "name": "STARLINK-0306",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7029062925977,
+        "perigee": 556.0180506242365,
+        "period": 95.6441538215356
+    },
+    "45050": {
+        "name": "STARLINK-0307",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.8716695931088,
+        "perigee": 555.890295632082,
+        "period": 95.6445784339971
+    },
+    "45051": {
+        "name": "STARLINK-0308",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.750171240353,
+        "perigee": 555.74389569946,
+        "period": 95.6418045452592
+    },
+    "45052": {
+        "name": "STARLINK-0309",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.8307987694051,
+        "perigee": 555.7039741817573,
+        "period": 95.64222602419258
+    },
+    "45053": {
+        "name": "STARLINK-0310",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.8174267579848,
+        "perigee": 555.8374536755709,
+        "period": 95.64346964691028
+    },
+    "45054": {
+        "name": "STARLINK-0311",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.9775176657988,
+        "perigee": 555.7952334574974,
+        "period": 95.64469011456156
+    },
+    "45055": {
+        "name": "STARLINK-0312",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 348.9346771043679,
+        "perigee": 347.5317012144718,
+        "period": 91.35646791573915
+    },
+    "45056": {
+        "name": "STARLINK-0313",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.9055738205118,
+        "perigee": 555.8646188711282,
+        "period": 95.6446636237556
+    },
+    "45057": {
+        "name": "STARLINK-0315",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.963636179016,
+        "perigee": 555.7785856306367,
+        "period": 95.6443740046065
+    },
+    "45058": {
+        "name": "STARLINK-0316",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.8679291209233,
+        "perigee": 555.9419715447304,
+        "period": 95.64507477288183
+    },
+    "45059": {
+        "name": "STARLINK-0317",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.8781027801894,
+        "perigee": 555.8246876266514,
+        "period": 95.64396572018248
+    },
+    "45060": {
+        "name": "STARLINK-0318",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.6557164728772,
+        "perigee": 556.1149547742344,
+        "period": 95.64466857886926
+    },
+    "45061": {
+        "name": "STARLINK-0319",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7286177611388,
+        "perigee": 556.032672579201,
+        "period": 95.6445714460296
+    },
+    "45062": {
+        "name": "STARLINK-0320",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.730902157628,
+        "perigee": 555.97399877619,
+        "period": 95.64398757318922
+    },
+    "45063": {
+        "name": "STARLINK-0321",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.9532204790479,
+        "perigee": 555.7764853422633,
+        "period": 95.64424441029314
+    },
+    "45064": {
+        "name": "STARLINK-0322",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.9065301189264,
+        "perigee": 555.8212430890584,
+        "period": 95.64422439943783
+    },
+    "45065": {
+        "name": "STARLINK-0323",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.9516561460039,
+        "perigee": 555.8525018160725,
+        "period": 95.64501531104666
+    },
+    "45066": {
+        "name": "STARLINK-0324",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7845102135502,
+        "perigee": 555.898751721601,
+        "period": 95.64376351681751
+    },
+    "45067": {
+        "name": "STARLINK-0325",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.9894895922505,
+        "perigee": 555.7656408938076,
+        "period": 95.64450766499168
+    },
+    "45068": {
+        "name": "STARLINK-0326",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.6681781077534,
+        "perigee": 556.0235075046709,
+        "period": 95.64385073795681
+    },
+    "45069": {
+        "name": "STARLINK-0327",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7217176273047,
+        "perigee": 556.0978155780127,
+        "period": 95.64517451138248
+    },
+    "45070": {
+        "name": "STARLINK-0328",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.8036885512695,
+        "perigee": 555.9179248396866,
+        "period": 95.64416061886278
+    },
+    "45071": {
+        "name": "STARLINK-0329",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.8333886997318,
+        "perigee": 555.8437134678605,
+        "period": 95.64369973685714
+    },
+    "45072": {
+        "name": "STARLINK-0330",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7884401137912,
+        "perigee": 555.9594813881525,
+        "period": 95.64443302095675
+    },
+    "45073": {
+        "name": "STARLINK-0331",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7900578789618,
+        "perigee": 555.9417032620255,
+        "period": 95.64426569168815
+    },
+    "45074": {
+        "name": "STARLINK-0332",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7866060100058,
+        "perigee": 555.9590331601994,
+        "period": 95.64440938899722
+    },
+    "45075": {
+        "name": "STARLINK-0333",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.9029261704665,
+        "perigee": 555.841191445765,
+        "period": 95.644393634364
+    },
+    "45076": {
+        "name": "STARLINK-0334",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.6751399526047,
+        "perigee": 556.031853103228,
+        "period": 95.6440092356273
+    },
+    "45077": {
+        "name": "STARLINK-0335",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7455970688164,
+        "perigee": 555.9720652080448,
+        "period": 95.6441197078614
+    },
+    "45078": {
+        "name": "STARLINK-0336",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.8486148263225,
+        "perigee": 555.9212772343373,
+        "period": 95.64466051092805
+    },
+    "45079": {
+        "name": "STARLINK-0337",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 558.0007216251325,
+        "perigee": 556.0096129400553,
+        "period": 95.64715013889514
+    },
+    "45080": {
+        "name": "STARLINK-0338",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.4717058480401,
+        "perigee": 556.173431898633,
+        "period": 95.6433687685085
+    },
+    "45081": {
+        "name": "STARLINK-0340",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7493986609765,
+        "perigee": 555.9259917795947,
+        "period": 95.64368201315817
+    },
+    "45082": {
+        "name": "STARLINK-0341",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.6454341738103,
+        "perigee": 556.0644976705871,
+        "period": 95.6440396646991
+    },
+    "45083": {
+        "name": "STARLINK-0342",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.6574618386477,
+        "perigee": 556.0058667698772,
+        "period": 95.64355712161608
+    },
+    "45084": {
+        "name": "STARLINK-0343",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.8737346587749,
+        "perigee": 555.8646525926237,
+        "period": 95.64433430042907
+    },
+    "45085": {
+        "name": "STARLINK-0344",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.8683307829518,
+        "perigee": 555.8994261846868,
+        "period": 95.64463840350554
+    },
+    "45086": {
+        "name": "STARLINK-0345",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.9168946999982,
+        "perigee": 555.7484830683777,
+        "period": 95.64357833917958
+    },
+    "45087": {
+        "name": "STARLINK-0346",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.5800615423461,
+        "perigee": 555.9520365208239,
+        "period": 95.64219832779898
+    },
+    "45088": {
+        "name": "STARLINK-0347",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.6611706711687,
+        "perigee": 555.8613382972535,
+        "period": 95.64209904017116
+    },
+    "45089": {
+        "name": "STARLINK-0348",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.9723816095329,
+        "perigee": 555.7762454521433,
+        "period": 95.644440326538
+    },
+    "45090": {
+        "name": "STARLINK-0349",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.744189584951,
+        "perigee": 555.9000033428725,
+        "period": 95.64335898560175
+    },
+    "45091": {
+        "name": "STARLINK-0350",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.4097824293971,
+        "perigee": 556.2375946612954,
+        "period": 95.64339195527596
+    },
+    "45092": {
+        "name": "STARLINK-0351",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7251977050435,
+        "perigee": 555.8713188911229,
+        "period": 95.64286533256214
+    },
+    "45093": {
+        "name": "STARLINK-0352",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7668536176709,
+        "perigee": 555.8880268158838,
+        "period": 95.64346964691028
+    },
+    "45094": {
+        "name": "STARLINK-0353",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.9126777964327,
+        "perigee": 555.7622770434413,
+        "period": 95.64367750282722
+    },
+    "45095": {
+        "name": "STARLINK-0354",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7750675819553,
+        "perigee": 556.034777865367,
+        "period": 95.64507420113306
+    },
+    "45096": {
+        "name": "STARLINK-0355",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.7106721666753,
+        "perigee": 555.962086264561,
+        "period": 95.64365476060158
+    },
+    "45097": {
+        "name": "STARLINK-0356",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 317.71689500966204,
+        "perigee": 316.88353280300925,
+        "period": 90.7263351931707
+    },
+    "45098": {
+        "name": "STARLINK-0357",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.4412922748085,
+        "perigee": 556.2455465006223,
+        "period": 95.64380055243116
+    },
+    "45099": {
+        "name": "STARLINK-0358",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.8530093973111,
+        "perigee": 555.7718945367401,
+        "period": 95.64315926228092
+    },
+    "45100": {
+        "name": "STARLINK-0359",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.9381813629018,
+        "perigee": 555.8819776513045,
+        "period": 95.64518099121582
+    },
+    "45101": {
+        "name": "STARLINK-0360",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.6922371806344,
+        "perigee": 556.0835816080729,
+        "period": 95.6447218781372
+    },
+    "45102": {
+        "name": "STARLINK-0361",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.659978515679,
+        "perigee": 556.2300506646679,
+        "period": 95.64590445107252
+    },
+    "45103": {
+        "name": "STARLINK-0362",
+        "mission": 3,
+        "version": 1.0,
+        "apogee": 557.721313472108,
+        "perigee": 555.9907350372495,
+        "period": 95.64406158126594
+    },
+    "45178": {
+        "name": "STARLINK-0401",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.8656201719754,
+        "perigee": 555.8579258301594,
+        "period": 95.6441806296914
+    },
+    "45179": {
+        "name": "STARLINK-0402",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.9669729990792,
+        "perigee": 555.8484188256692,
+        "period": 95.64513163015448
+    },
+    "45180": {
+        "name": "STARLINK-0403",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.0408170955275,
+        "perigee": 555.6659489558265,
+        "period": 95.64400688515701
+    },
+    "45181": {
+        "name": "STARLINK-0404",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.0302771633873,
+        "perigee": 555.7911764164884,
+        "period": 95.64519439557976
+    },
+    "45182": {
+        "name": "STARLINK-0405",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.9339099660311,
+        "perigee": 555.8555415483042,
+        "period": 95.64486303572257
+    },
+    "45183": {
+        "name": "STARLINK-0406",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.0738319598818,
+        "perigee": 555.6061353577021,
+        "period": 95.64372940342176
+    },
+    "45184": {
+        "name": "STARLINK-0407",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.2165443234965,
+        "perigee": 555.4274031968611,
+        "period": 95.64335644458735
+    },
+    "45185": {
+        "name": "STARLINK-0408",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.1153151276028,
+        "perigee": 555.589420154361,
+        "period": 95.64398585798195
+    },
+    "45186": {
+        "name": "STARLINK-0409",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.9270220435802,
+        "perigee": 555.8417288465714,
+        "period": 95.6446486948906
+    },
+    "45187": {
+        "name": "STARLINK-0410",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.9227193923881,
+        "perigee": 555.8208031000262,
+        "period": 95.64438747227096
+    },
+    "45188": {
+        "name": "STARLINK-0411",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 543.1763298657238,
+        "perigee": 541.2724278717833,
+        "period": 95.3412209562411
+    },
+    "45189": {
+        "name": "STARLINK-0412",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.0176146025649,
+        "perigee": 555.6746170461932,
+        "period": 95.64385639177249
+    },
+    "45190": {
+        "name": "STARLINK-0413",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 551.7865792618514,
+        "perigee": 549.7100547667471,
+        "period": 95.51760749056878
+    },
+    "45191": {
+        "name": "STARLINK-0415",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.8810330286445,
+        "perigee": 556.0742164641107,
+        "period": 95.6465797663821
+    },
+    "45192": {
+        "name": "STARLINK-0416",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.0383257916998,
+        "perigee": 555.677311847046,
+        "period": 95.64409874416309
+    },
+    "45193": {
+        "name": "STARLINK-0417",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.9175303557049,
+        "perigee": 555.8627181448527,
+        "period": 95.64476774477765
+    },
+    "45194": {
+        "name": "STARLINK-0418",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.9226395521099,
+        "perigee": 555.729289851685,
+        "period": 95.64343909115024
+    },
+    "45195": {
+        "name": "STARLINK-0419",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.8316985345659,
+        "perigee": 555.8641897184336,
+        "period": 95.64389425329699
+    },
+    "45196": {
+        "name": "STARLINK-0420",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.0130553521626,
+        "perigee": 555.6700593374688,
+        "period": 95.64376199219596
+    },
+    "45197": {
+        "name": "STARLINK-0421",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.1586572103892,
+        "perigee": 555.6743063600212,
+        "period": 95.64531357388121
+    },
+    "45198": {
+        "name": "STARLINK-0422",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.132877338768,
+        "perigee": 555.525242480618,
+        "period": 95.64350318839075
+    },
+    "45199": {
+        "name": "STARLINK-0423",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.949894027357,
+        "perigee": 555.7717745810514,
+        "period": 95.64416119060063
+    },
+    "45200": {
+        "name": "STARLINK-0424",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.8930677104853,
+        "perigee": 555.6387726800535,
+        "period": 95.6421956597986
+    },
+    "45201": {
+        "name": "STARLINK-0425",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.911630086381,
+        "perigee": 555.8000196309639,
+        "period": 95.64405745205691
+    },
+    "45202": {
+        "name": "STARLINK-0426",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.0137585941171,
+        "perigee": 555.7067811242538,
+        "period": 95.64414950173938
+    },
+    "45203": {
+        "name": "STARLINK-0427",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.8283976617856,
+        "perigee": 555.7472901934702,
+        "period": 95.64264966667098
+    },
+    "45204": {
+        "name": "STARLINK-0428",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.0079304506872,
+        "perigee": 555.7868465479343,
+        "period": 95.64491817750273
+    },
+    "45205": {
+        "name": "STARLINK-0429",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.9832990625016,
+        "perigee": 555.5945974331461,
+        "period": 95.64267253546754
+    },
+    "45206": {
+        "name": "STARLINK-0430",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 540.1890959175527,
+        "perigee": 538.0690683151595,
+        "period": 95.27719663411257
+    },
+    "45207": {
+        "name": "STARLINK-0431",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.0172795526441,
+        "perigee": 555.6036303901318,
+        "period": 95.64311790746089
+    },
+    "45208": {
+        "name": "STARLINK-0432",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.893066857418,
+        "perigee": 555.8701254313439,
+        "period": 95.64459113939513
+    },
+    "45209": {
+        "name": "STARLINK-0433",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.0462489696862,
+        "perigee": 555.6741496374449,
+        "period": 95.64414804063193
+    },
+    "45210": {
+        "name": "STARLINK-0434",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.1887042451268,
+        "perigee": 555.5962868732885,
+        "period": 95.64481685135421
+    },
+    "45212": {
+        "name": "STARLINK-0436",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.0296821159162,
+        "perigee": 555.5980194542901,
+        "period": 95.64318822973374
+    },
+    "45213": {
+        "name": "STARLINK-0437",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.1102082982054,
+        "perigee": 555.6424987410819,
+        "period": 95.64448257187759
+    },
+    "45214": {
+        "name": "STARLINK-0438",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.8642494076546,
+        "perigee": 555.8510139798848,
+        "period": 95.64409486905623
+    },
+    "45215": {
+        "name": "STARLINK-0440",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.1059357225624,
+        "perigee": 555.661778297809,
+        "period": 95.6446379588161
+    },
+    "45216": {
+        "name": "STARLINK-0441",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.2382936816961,
+        "perigee": 555.4463732213154,
+        "period": 95.64377806425068
+    },
+    "45217": {
+        "name": "STARLINK-0442",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 558.218283248405,
+        "perigee": 555.5011766623165,
+        "period": 95.64413832109217
+    },
+    "45218": {
+        "name": "STARLINK-0443",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 481.3988225902552,
+        "perigee": 479.60235913533063,
+        "period": 94.06721350637956
+    },
+    "45219": {
+        "name": "STARLINK-0444",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 509.44878972004915,
+        "perigee": 507.7412742331121,
+        "period": 94.64638730756612
+    },
+    "45220": {
+        "name": "STARLINK-0445",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 486.4944827282764,
+        "perigee": 484.6048176446846,
+        "period": 94.17121373789128
+    },
+    "45221": {
+        "name": "STARLINK-0446",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 486.26603996539956,
+        "perigee": 484.35175852073075,
+        "period": 94.16625389423318
+    },
+    "45222": {
+        "name": "STARLINK-0447",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 487.0392369304979,
+        "perigee": 485.2056423901329,
+        "period": 94.18301444143022
+    },
+    "45223": {
+        "name": "STARLINK-0448",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 480.932453976864,
+        "perigee": 479.0580216797944,
+        "period": 94.05680638287726
+    },
+    "45224": {
+        "name": "STARLINK-0449",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 488.5144047525739,
+        "perigee": 486.67767273339814,
+        "period": 94.21337603866901
+    },
+    "45225": {
+        "name": "STARLINK-0450",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 483.2947088225372,
+        "perigee": 481.50185983135736,
+        "period": 94.10629759330423
+    },
+    "45226": {
+        "name": "STARLINK-0451",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 484.48250367993023,
+        "perigee": 482.5577544276919,
+        "period": 94.12940517502462
+    },
+    "45227": {
+        "name": "STARLINK-0452",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 487.50108877443427,
+        "perigee": 485.67422742231656,
+        "period": 94.19259931141272
+    },
+    "45228": {
+        "name": "STARLINK-0453",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 488.06593724835477,
+        "perigee": 486.28966919732,
+        "period": 94.20475850687352
+    },
+    "45229": {
+        "name": "STARLINK-0454",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 482.84887224216203,
+        "perigee": 481.0958819081066,
+        "period": 94.09752531781155
+    },
+    "45230": {
+        "name": "STARLINK-0455",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 482.489470020717,
+        "perigee": 480.65983258881886,
+        "period": 94.08933373341424
+    },
+    "45231": {
+        "name": "STARLINK-0456",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 484.98477127955016,
+        "perigee": 483.09963467373143,
+        "period": 94.14015941659294
+    },
+    "45232": {
+        "name": "STARLINK-0457",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 531.14988072839,
+        "perigee": 529.1761481062667,
+        "period": 95.09181993162834
+    },
+    "45233": {
+        "name": "STARLINK-0458",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.8749304369027,
+        "perigee": 555.8852432759572,
+        "period": 95.64455988412199
+    },
+    "45234": {
+        "name": "STARLINK-0459",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.8321687198197,
+        "perigee": 555.902064941071,
+        "period": 95.64429129290126
+    },
+    "45235": {
+        "name": "STARLINK-0460",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 557.894401389163,
+        "perigee": 555.9975297837854,
+        "period": 95.645924144987
+    },
+    "45236": {
+        "name": "STARLINK-0461",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 481.8687064193105,
+        "perigee": 480.07211977699586,
+        "period": 94.07688926110585
+    },
+    "45237": {
+        "name": "STARLINK-0462",
+        "mission": 4,
+        "version": 1.0,
+        "apogee": 485.48293373647704,
+        "perigee": 483.60862752005363,
+        "period": 94.15053304004256
+    },
+    "45360": {
+        "name": "STARLINK-0501",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 447.5809528496247,
+        "perigee": 446.1478377537327,
+        "period": 93.375355580649
+    },
+    "45361": {
+        "name": "STARLINK-0502",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.8437482196707,
+        "perigee": 555.9787545108031,
+        "period": 95.6452052588348
+    },
+    "45362": {
+        "name": "STARLINK-0503",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 567.7517195405765,
+        "perigee": 565.871572584493,
+        "period": 95.85030246731118
+    },
+    "45364": {
+        "name": "STARLINK-0505",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 447.42402033933627,
+        "perigee": 446.1409136790447,
+        "period": 93.37367248899066
+    },
+    "45365": {
+        "name": "STARLINK-0506",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 558.028458590162,
+        "perigee": 555.6466680358947,
+        "period": 95.64367928154924
+    },
+    "45366": {
+        "name": "STARLINK-0507",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.7766041457476,
+        "perigee": 556.1208244030364,
+        "period": 95.64598106679834
+    },
+    "45367": {
+        "name": "STARLINK-0508",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.6165365669885,
+        "perigee": 556.2337227111124,
+        "period": 95.64549265953124
+    },
+    "45368": {
+        "name": "STARLINK-0509",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.5482415047949,
+        "perigee": 556.0407534221466,
+        "period": 95.64278745133579
+    },
+    "45369": {
+        "name": "STARLINK-0510",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.9223525071982,
+        "perigee": 555.9631302999295,
+        "period": 95.64585737629689
+    },
+    "45370": {
+        "name": "STARLINK-0511",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.6331321781911,
+        "perigee": 556.0535838925587,
+        "period": 95.6437992819122
+    },
+    "45371": {
+        "name": "STARLINK-0512",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.793811213673,
+        "perigee": 555.9122063364899,
+        "period": 95.64399913495848
+    },
+    "45372": {
+        "name": "STARLINK-0513",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.8404435502523,
+        "perigee": 555.9463574945498,
+        "period": 95.64483559191096
+    },
+    "45373": {
+        "name": "STARLINK-0515",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.8016676326235,
+        "perigee": 555.8535625072661,
+        "period": 95.64347326786442
+    },
+    "45374": {
+        "name": "STARLINK-0516",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.8219366457266,
+        "perigee": 555.7269776498853,
+        "period": 95.64237244690699
+    },
+    "45375": {
+        "name": "STARLINK-0517",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.8050666294685,
+        "perigee": 556.0204363046903,
+        "period": 95.6452363239462
+    },
+    "45376": {
+        "name": "STARLINK-0518",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.5612340740236,
+        "perigee": 556.1285557497554,
+        "period": 95.64383110842215
+    },
+    "45377": {
+        "name": "STARLINK-0519",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.7512326987666,
+        "perigee": 555.9624600610314,
+        "period": 95.64407860631609
+    },
+    "45378": {
+        "name": "STARLINK-0520",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.6289613325894,
+        "perigee": 556.3029486488039,
+        "period": 95.64633810024056
+    },
+    "45379": {
+        "name": "STARLINK-0521",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.9589767395798,
+        "perigee": 555.873673925655,
+        "period": 95.64531033395545
+    },
+    "45380": {
+        "name": "STARLINK-0522",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 558.3660921257623,
+        "perigee": 555.3995726969233,
+        "period": 95.64461674078248
+    },
+    "45381": {
+        "name": "STARLINK-0523",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 558.2180502435453,
+        "perigee": 555.6547137822006,
+        "period": 95.64572568152296
+    },
+    "45382": {
+        "name": "STARLINK-0524",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 558.0001342112646,
+        "perigee": 555.7167120749968,
+        "period": 95.64411125885462
+    },
+    "45383": {
+        "name": "STARLINK-0525",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.9325061132665,
+        "perigee": 555.8222746601551,
+        "period": 95.64450404395923
+    },
+    "45384": {
+        "name": "STARLINK-0526",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 558.2589079614291,
+        "perigee": 555.3977148688147,
+        "period": 95.64348768815822
+    },
+    "45385": {
+        "name": "STARLINK-0527",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 382.31348535411155,
+        "perigee": 380.4147205683589,
+        "period": 92.03298511526437
+    },
+    "45386": {
+        "name": "STARLINK-0528",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 536.2130584010445,
+        "perigee": 534.2144001477928,
+        "period": 95.19623049211988
+    },
+    "45387": {
+        "name": "STARLINK-0529",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 490.05138837292975,
+        "perigee": 488.2746061566379,
+        "period": 94.24566476437835
+    },
+    "45388": {
+        "name": "STARLINK-0530",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 577.8534859957015,
+        "perigee": 576.1345522753671,
+        "period": 96.06139386147173
+    },
+    "45389": {
+        "name": "STARLINK-0531",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.92947743777,
+        "perigee": 555.950857725909,
+        "period": 95.64580407576342
+    },
+    "45390": {
+        "name": "STARLINK-0532",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.9711649311055,
+        "perigee": 555.7085324365255,
+        "period": 95.64372660828425
+    },
+    "45391": {
+        "name": "STARLINK-0533",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.9443423856198,
+        "perigee": 555.8188683090992,
+        "period": 95.64459132997614
+    },
+    "45392": {
+        "name": "STARLINK-0534",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.6812211862672,
+        "perigee": 555.8924666231712,
+        "period": 95.64262895771465
+    },
+    "45393": {
+        "name": "STARLINK-0535",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 558.13143291575,
+        "perigee": 555.5999907846395,
+        "period": 95.64426219772713
+    },
+    "45394": {
+        "name": "STARLINK-0536",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.9978018282279,
+        "perigee": 555.6852883204817,
+        "period": 95.64376173809237
+    },
+    "45395": {
+        "name": "STARLINK-0537",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 556.8760081376871,
+        "perigee": 554.8561339913643,
+        "period": 95.62356178427781
+    },
+    "45396": {
+        "name": "STARLINK-0538",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.4241850824468,
+        "perigee": 556.118992915079,
+        "period": 95.64231305195578
+    },
+    "45397": {
+        "name": "STARLINK-0540",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 558.3320033146786,
+        "perigee": 555.5358891739743,
+        "period": 95.6456752399159
+    },
+    "45398": {
+        "name": "STARLINK-0541",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.9302670238148,
+        "perigee": 555.8144947986844,
+        "period": 95.64440030467178
+    },
+    "45399": {
+        "name": "STARLINK-0542",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 404.36921098723917,
+        "perigee": 402.8097004945278,
+        "period": 92.48774757324192
+    },
+    "45400": {
+        "name": "STARLINK-0543",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 408.6456249104198,
+        "perigee": 406.849256838588,
+        "period": 92.57290882546539
+    },
+    "45401": {
+        "name": "STARLINK-0544",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 408.145850250585,
+        "perigee": 406.50142893562,
+        "period": 92.56422759684824
+    },
+    "45402": {
+        "name": "STARLINK-0545",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 407.5593580221282,
+        "perigee": 405.9801376708802,
+        "period": 92.55288197873989
+    },
+    "45403": {
+        "name": "STARLINK-0546",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 409.7194974359916,
+        "perigee": 407.9513163618725,
+        "period": 92.59519617755508
+    },
+    "45404": {
+        "name": "STARLINK-0547",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 411.303450868818,
+        "perigee": 410.14241990228,
+        "period": 92.63386707972589
+    },
+    "45405": {
+        "name": "STARLINK-0548",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 408.9882921248563,
+        "perigee": 407.50906006373276,
+        "period": 92.58317657635295
+    },
+    "45406": {
+        "name": "STARLINK-0549",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 410.2822237912798,
+        "perigee": 409.22985045431835,
+        "period": 92.61405699604387
+    },
+    "45407": {
+        "name": "STARLINK-0550",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 412.45496151308157,
+        "perigee": 410.73082639943806,
+        "period": 92.65169224268804
+    },
+    "45408": {
+        "name": "STARLINK-0551",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 577.8552806879627,
+        "perigee": 576.1099474553075,
+        "period": 96.06115733581784
+    },
+    "45409": {
+        "name": "STARLINK-0552",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 413.6655425117742,
+        "perigee": 411.93838653160725,
+        "period": 92.67646759656094
+    },
+    "45410": {
+        "name": "STARLINK-0553",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 410.11169894514603,
+        "perigee": 408.3542625565352,
+        "period": 92.60334105857844
+    },
+    "45411": {
+        "name": "STARLINK-0554",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 405.3395492723007,
+        "perigee": 399.81501963909903,
+        "period": 92.46702086805423
+    },
+    "45412": {
+        "name": "STARLINK-0555",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 410.6897064167522,
+        "perigee": 409.75118550703115,
+        "period": 92.6235717587547
+    },
+    "45413": {
+        "name": "STARLINK-0556",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 402.640789974723,
+        "perigee": 401.39997264086736,
+        "period": 92.45561756200695
+    },
+    "45414": {
+        "name": "STARLINK-0557",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 413.21682121616135,
+        "perigee": 411.35684396666477,
+        "period": 92.66591163511488
+    },
+    "45415": {
+        "name": "STARLINK-0558",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 407.1067787733665,
+        "perigee": 405.34876588922367,
+        "period": 92.54178089498197
+    },
+    "45416": {
+        "name": "STARLINK-0559",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 412.12281757078784,
+        "perigee": 410.26178400345145,
+        "period": 92.64348407932792
+    },
+    "45417": {
+        "name": "STARLINK-0560",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 562.8612839413388,
+        "perigee": 560.9755301346248,
+        "period": 95.74891551237576
+    },
+    "45419": {
+        "name": "STARLINK-0562",
+        "mission": 5,
+        "version": 1.0,
+        "apogee": 557.7747692056131,
+        "perigee": 556.0040006788215,
+        "period": 95.64475243471686
+    },
+    "45531": {
+        "name": "STARLINK-0601",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 557.8302462342065,
+        "perigee": 555.9029137516525,
+        "period": 95.64428017574748
+    },
+    "45532": {
+        "name": "STARLINK-0602",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 558.2714497820353,
+        "perigee": 555.5072219370278,
+        "period": 95.64475141828147
+    },
+    "45533": {
+        "name": "STARLINK-0603",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 558.1551609775629,
+        "perigee": 555.7816390037257,
+        "period": 95.64638873313491
+    },
+    "45534": {
+        "name": "STARLINK-0604",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 557.9175266783899,
+        "perigee": 555.7560416017379,
+        "period": 95.64366314600194
+    },
+    "45535": {
+        "name": "STARLINK-0605",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 557.9960818281826,
+        "perigee": 555.6932662585303,
+        "period": 95.64382653455115
+    },
+    "45536": {
+        "name": "STARLINK-0606",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 558.0994012043783,
+        "perigee": 555.5887505112877,
+        "period": 95.64381414698606
+    },
+    "45537": {
+        "name": "STARLINK-0607",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 541.3602415709076,
+        "perigee": 539.0104385552862,
+        "period": 95.29904307299081
+    },
+    "45538": {
+        "name": "STARLINK-0608",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 557.9503266082527,
+        "perigee": 555.7791338018067,
+        "period": 95.64424186923169
+    },
+    "45539": {
+        "name": "STARLINK-0609",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 392.9100052312091,
+        "perigee": 380.6486903825486,
+        "period": 92.1437199001381
+    },
+    "45540": {
+        "name": "STARLINK-0610",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 558.0444224387957,
+        "perigee": 555.7388201072356,
+        "period": 95.64479874607757
+    },
+    "45541": {
+        "name": "STARLINK-0611",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 558.0904195934049,
+        "perigee": 555.693368997979,
+        "period": 95.64480440000533
+    },
+    "45542": {
+        "name": "STARLINK-0612",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 558.0989266959103,
+        "perigee": 555.787764795769,
+        "period": 95.64586989144864
+    },
+    "45543": {
+        "name": "STARLINK-0613",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 558.0207120632595,
+        "perigee": 555.8536533125146,
+        "period": 95.64574226246584
+    },
+    "45544": {
+        "name": "STARLINK-0615",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 557.952097546381,
+        "perigee": 555.7753627623664,
+        "period": 95.64422115958585
+    },
+    "45545": {
+        "name": "STARLINK-0616",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 558.199080745141,
+        "perigee": 555.5457056185519,
+        "period": 95.64440055877876
+    },
+    "45546": {
+        "name": "STARLINK-0617",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 557.9041091126642,
+        "perigee": 555.6345718767177,
+        "period": 95.64226648890657
+    },
+    "45547": {
+        "name": "STARLINK-0618",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 558.1011758940006,
+        "perigee": 555.9119258239288,
+        "period": 95.64717879111328
+    },
+    "45548": {
+        "name": "STARLINK-0619",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 557.7780008196021,
+        "perigee": 555.8368291819189,
+        "period": 95.64305495418601
+    },
+    "45549": {
+        "name": "STARLINK-0620",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 558.0137634426849,
+        "perigee": 555.9035072423592,
+        "period": 95.64618651952472
+    },
+    "45550": {
+        "name": "STARLINK-0621",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 557.9494340729452,
+        "perigee": 555.9389446691898,
+        "period": 95.64588736184363
+    },
+    "45551": {
+        "name": "STARLINK-0622",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 392.7225295174038,
+        "perigee": 381.1056751754703,
+        "period": 92.1464760229283
+    },
+    "45552": {
+        "name": "STARLINK-0623",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.6748785825884,
+        "perigee": 386.18543077649736,
+        "period": 92.14680434172244
+    },
+    "45553": {
+        "name": "STARLINK-0624",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.4487904283162,
+        "perigee": 385.96479801630505,
+        "period": 92.1422359794107
+    },
+    "45554": {
+        "name": "STARLINK-0625",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.74426935983075,
+        "perigee": 385.8777619573055,
+        "period": 92.14436759746384
+    },
+    "45555": {
+        "name": "STARLINK-0626",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.7003295241529,
+        "perigee": 386.1824958828594,
+        "period": 92.14703460261738
+    },
+    "45556": {
+        "name": "STARLINK-0627",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.58214782688395,
+        "perigee": 386.13461456163225,
+        "period": 92.14533635975305
+    },
+    "45557": {
+        "name": "STARLINK-0628",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.7636106146816,
+        "perigee": 386.074130896993,
+        "period": 92.14657355129134
+    },
+    "45558": {
+        "name": "STARLINK-0629",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.6813424986303,
+        "perigee": 386.19594758445027,
+        "period": 92.1469779954789
+    },
+    "45559": {
+        "name": "STARLINK-0630",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.77165374138576,
+        "perigee": 385.97000537822487,
+        "period": 92.14559096541967
+    },
+    "45560": {
+        "name": "STARLINK-0631",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 392.61473845989815,
+        "perigee": 381.18037579324005,
+        "period": 92.1461376235162
+    },
+    "45561": {
+        "name": "STARLINK-0632",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.805461391978,
+        "perigee": 385.9456940329913,
+        "period": 92.14568807916064
+    },
+    "45562": {
+        "name": "STARLINK-0633",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.6081331942314,
+        "perigee": 386.27411561627406,
+        "period": 92.1470287060372
+    },
+    "45563": {
+        "name": "STARLINK-0634",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.5094708337737,
+        "perigee": 385.9389757242836,
+        "period": 92.1425924509198
+    },
+    "45564": {
+        "name": "STARLINK-0635",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.96385984980685,
+        "perigee": 385.948637296482,
+        "period": 92.14733804165148
+    },
+    "45565": {
+        "name": "STARLINK-0636",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.628741422154,
+        "perigee": 386.0541643636301,
+        "period": 92.14499012660671
+    },
+    "45566": {
+        "name": "STARLINK-0637",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.7901278528031,
+        "perigee": 385.9803661836516,
+        "period": 92.14588584511668
+    },
+    "45567": {
+        "name": "STARLINK-0638",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.71264169675203,
+        "perigee": 386.1623708328148,
+        "period": 92.14695470402026
+    },
+    "45568": {
+        "name": "STARLINK-0640",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.9381147055393,
+        "perigee": 385.81343856136596,
+        "period": 92.14569214768248
+    },
+    "45569": {
+        "name": "STARLINK-0641",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.66099092372974,
+        "perigee": 386.17019474395084,
+        "period": 92.14650650789022
+    },
+    "45570": {
+        "name": "STARLINK-0642",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.8634503431311,
+        "perigee": 386.0333979098778,
+        "period": 92.14717800767943
+    },
+    "45571": {
+        "name": "STARLINK-0643",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.6654750408214,
+        "perigee": 386.1598121038331,
+        "period": 92.14644618660213
+    },
+    "45572": {
+        "name": "STARLINK-0644",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.7292186880009,
+        "perigee": 386.1424553534687,
+        "period": 92.14692056289076
+    },
+    "45573": {
+        "name": "STARLINK-0645",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.53632011710573,
+        "perigee": 385.94284512352385,
+        "period": 92.1429065915125
+    },
+    "45574": {
+        "name": "STARLINK-0646",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.5497571673887,
+        "perigee": 385.87114189172536,
+        "period": 92.14231074032563
+    },
+    "45575": {
+        "name": "STARLINK-0647",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.7635955652855,
+        "perigee": 386.1389840752129,
+        "period": 92.14723661990976
+    },
+    "45576": {
+        "name": "STARLINK-0648",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.4948897238672,
+        "perigee": 386.0500779668214,
+        "period": 92.14357951286974
+    },
+    "45577": {
+        "name": "STARLINK-0649",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.8344804671826,
+        "perigee": 386.0017330766264,
+        "period": 92.14655792551191
+    },
+    "45578": {
+        "name": "STARLINK-0650",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.7446188067133,
+        "perigee": 386.04027833118386,
+        "period": 92.14603313826161
+    },
+    "45579": {
+        "name": "STARLINK-0651",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.5769363171421,
+        "perigee": 385.8496647975193,
+        "period": 92.14236905156508
+    },
+    "45580": {
+        "name": "STARLINK-0652",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.6069900506642,
+        "perigee": 386.0959344637031,
+        "period": 92.1451948472535
+    },
+    "45581": {
+        "name": "STARLINK-0653",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.7324343062425,
+        "perigee": 386.17675315876494,
+        "period": 92.14730419506867
+    },
+    "45582": {
+        "name": "STARLINK-0654",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.5454415879734,
+        "perigee": 386.1992734143594,
+        "period": 92.14562221632794
+    },
+    "45583": {
+        "name": "STARLINK-0655",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.6189496687874,
+        "perigee": 386.2551979672909,
+        "period": 92.14694585916564
+    },
+    "45584": {
+        "name": "STARLINK-0656",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.7678436243683,
+        "perigee": 386.0851199304061,
+        "period": 92.14672921972297
+    },
+    "45585": {
+        "name": "STARLINK-0657",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.5966022093054,
+        "perigee": 385.9909504080545,
+        "period": 92.14401500370758
+    },
+    "45586": {
+        "name": "STARLINK-0658",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.7045634208983,
+        "perigee": 385.83941835141366,
+        "period": 92.14356943047423
+    },
+    "45587": {
+        "name": "STARLINK-0659",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.81363615650776,
+        "perigee": 385.92819017173537,
+        "period": 92.14559267537447
+    },
+    "45588": {
+        "name": "STARLINK-0660",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 388.382097092594,
+        "perigee": 385.484295338057,
+        "period": 92.14686655037829
+    },
+    "45589": {
+        "name": "STARLINK-0661",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 387.4351582473656,
+        "perigee": 386.00387325392944,
+        "period": 92.14249616914373
+    },
+    "45590": {
+        "name": "STARLINK-0662",
+        "mission": 6,
+        "version": 1.0,
+        "apogee": 557.8944592159335,
+        "perigee": 555.7149718524264,
+        "period": 95.64299905225559
+    },
+    "45657": {
+        "name": "STARLINK-0701",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 342.5956693056393,
+        "perigee": 214.0535853400845,
+        "period": 89.93443992923453
+    },
+    "45658": {
+        "name": "STARLINK-0702",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.58494912476186,
+        "perigee": 386.0725470509399,
+        "period": 92.14473027656591
+    },
+    "45659": {
+        "name": "STARLINK-0703",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.47717954742535,
+        "perigee": 386.0039920997154,
+        "period": 92.14292710977888
+    },
+    "45660": {
+        "name": "STARLINK-0704",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.23365528491047,
+        "perigee": 385.81862931071316,
+        "period": 92.138541184375
+    },
+    "45661": {
+        "name": "STARLINK-0705",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.22112357722034,
+        "perigee": 385.5669135214798,
+        "period": 92.13583894623103
+    },
+    "45662": {
+        "name": "STARLINK-0706",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.5096287810253,
+        "perigee": 385.93643085968307,
+        "period": 92.1425680414364
+    },
+    "45663": {
+        "name": "STARLINK-0707",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.43278057838234,
+        "perigee": 385.9731167414719,
+        "period": 92.14215732728573
+    },
+    "45664": {
+        "name": "STARLINK-0708",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.31124661598915,
+        "perigee": 385.80701395358795,
+        "period": 92.13921586960194
+    },
+    "45665": {
+        "name": "STARLINK-0709",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.62122615390086,
+        "perigee": 386.0696248442065,
+        "period": 92.1450713779527
+    },
+    "45666": {
+        "name": "STARLINK-0710",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.61746200872494,
+        "perigee": 386.14829827058225,
+        "period": 92.14583743542286
+    },
+    "45667": {
+        "name": "STARLINK-0711",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.10620970276835,
+        "perigee": 385.5547266272772,
+        "period": 92.13453920238172
+    },
+    "45668": {
+        "name": "STARLINK-0712",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.21346079508214,
+        "perigee": 385.81870947511027,
+        "period": 92.13833549106279
+    },
+    "45669": {
+        "name": "STARLINK-0713",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.5573650809992,
+        "perigee": 385.78955770349876,
+        "period": 92.14155423385719
+    },
+    "45670": {
+        "name": "STARLINK-0715",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 365.95037630238664,
+        "perigee": 347.7125707439603,
+        "period": 91.5318808181966
+    },
+    "45671": {
+        "name": "STARLINK-0716",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.01944970150106,
+        "perigee": 385.6355490296306,
+        "period": 92.13447848411259
+    },
+    "45672": {
+        "name": "STARLINK-0717",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 355.61590759031196,
+        "perigee": 326.23110647651924,
+        "period": 91.20743191597975
+    },
+    "45673": {
+        "name": "STARLINK-0718",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.29635849180164,
+        "perigee": 385.8569946596911,
+        "period": 92.13957473495006
+    },
+    "45674": {
+        "name": "STARLINK-0719",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.46327953037525,
+        "perigee": 385.9360394073352,
+        "period": 92.14209005447279
+    },
+    "45675": {
+        "name": "STARLINK-0720",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.56195911397504,
+        "perigee": 385.9414502551919,
+        "period": 92.14315452117657
+    },
+    "45676": {
+        "name": "STARLINK-0721",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.3160928380806,
+        "perigee": 385.7915886916043,
+        "period": 92.13910768583722
+    },
+    "45677": {
+        "name": "STARLINK-0722",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 385.7503662033612,
+        "perigee": 384.2613425130602,
+        "period": 92.10744935480054
+    },
+    "45678": {
+        "name": "STARLINK-0723",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 385.8428593723383,
+        "perigee": 384.28220892694964,
+        "period": 92.10860846613372
+    },
+    "45679": {
+        "name": "STARLINK-0724",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 385.9295404889807,
+        "perigee": 384.36481680240666,
+        "period": 92.11033946946424
+    },
+    "45680": {
+        "name": "STARLINK-0725",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 363.53437343146464,
+        "perigee": 352.85110703706835,
+        "period": 91.55966219291533
+    },
+    "45681": {
+        "name": "STARLINK-0726",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 386.06479694218746,
+        "perigee": 384.6216420305055,
+        "period": 92.11434860045908
+    },
+    "45682": {
+        "name": "STARLINK-0727",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 386.1727642486822,
+        "perigee": 384.582312976093,
+        "period": 92.11505044934054
+    },
+    "45683": {
+        "name": "STARLINK-0728",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 385.86140407466144,
+        "perigee": 384.31155783593005,
+        "period": 92.10909818382561
+    },
+    "45684": {
+        "name": "STARLINK-0729",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 386.8677552499361,
+        "perigee": 385.30957060426476,
+        "period": 92.12959381419078
+    },
+    "45685": {
+        "name": "STARLINK-0730",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 386.9341529105967,
+        "perigee": 385.362440216816,
+        "period": 92.13081343001514
+    },
+    "45686": {
+        "name": "STARLINK-0731",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 386.4324252847899,
+        "perigee": 384.98378706682564,
+        "period": 92.12181086645658
+    },
+    "45687": {
+        "name": "STARLINK-0732",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 359.0966891287835,
+        "perigee": 322.6900371484468,
+        "period": 91.20681748463016
+    },
+    "45688": {
+        "name": "STARLINK-0733",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 356.16079999723377,
+        "perigee": 326.48026107530853,
+        "period": 91.2155246846677
+    },
+    "45689": {
+        "name": "STARLINK-0734",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 386.82839961453806,
+        "perigee": 385.28238534073904,
+        "period": 92.12891337560814
+    },
+    "45690": {
+        "name": "STARLINK-0735",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 386.1800779646458,
+        "perigee": 384.6598834689846,
+        "period": 92.11591842098096
+    },
+    "45691": {
+        "name": "STARLINK-0736",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 365.27695366727096,
+        "perigee": 349.7394824900832,
+        "period": 91.54569178981363
+    },
+    "45692": {
+        "name": "STARLINK-0737",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 386.35555764093436,
+        "perigee": 384.95557860721925,
+        "period": 92.12073640290558
+    },
+    "45693": {
+        "name": "STARLINK-0738",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 386.91165566548426,
+        "perigee": 385.2980590255503,
+        "period": 92.12992501883213
+    },
+    "45694": {
+        "name": "STARLINK-0740",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 386.93798047310764,
+        "perigee": 385.4243718896434,
+        "period": 92.1314858800206
+    },
+    "45695": {
+        "name": "STARLINK-0741",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.28754959189985,
+        "perigee": 385.74278162504174,
+        "period": 92.13831668452603
+    },
+    "45696": {
+        "name": "STARLINK-0742",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 386.4035014279457,
+        "perigee": 385.01567327870333,
+        "period": 92.12184115829996
+    },
+    "45697": {
+        "name": "STARLINK-0743",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.43741634488106,
+        "perigee": 385.76963979415314,
+        "period": 92.1401239157718
+    },
+    "45698": {
+        "name": "STARLINK-0744",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.3452973184325,
+        "perigee": 385.89781478112656,
+        "period": 92.14049263408361
+    },
+    "45699": {
+        "name": "STARLINK-0745",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.3974545202078,
+        "perigee": 385.870229271939,
+        "period": 92.14074391134925
+    },
+    "45700": {
+        "name": "STARLINK-0746",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 386.6997360497173,
+        "perigee": 385.2105031413585,
+        "period": 92.12686263082512
+    },
+    "45701": {
+        "name": "STARLINK-0747",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.44850815986,
+        "perigee": 385.75910720793905,
+        "period": 92.1401296345974
+    },
+    "45702": {
+        "name": "STARLINK-0748",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 274.417607710666,
+        "perigee": 202.43697883057314,
+        "period": 89.12621726111807
+    },
+    "45703": {
+        "name": "STARLINK-0749",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.4721483473545,
+        "perigee": 385.851661022611,
+        "period": 92.14131786866729
+    },
+    "45704": {
+        "name": "STARLINK-0750",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.5172656587502,
+        "perigee": 385.8859564898368,
+        "period": 92.14212997005636
+    },
+    "45705": {
+        "name": "STARLINK-0751",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.2568891551187,
+        "perigee": 385.6337507892614,
+        "period": 92.13688817658316
+    },
+    "45706": {
+        "name": "STARLINK-0752",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.2108533491101,
+        "perigee": 386.05124386116955,
+        "period": 92.14068678132027
+    },
+    "45707": {
+        "name": "STARLINK-0753",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.5723063374711,
+        "perigee": 385.803143691062,
+        "period": 92.14184596288258
+    },
+    "45708": {
+        "name": "STARLINK-0754",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.4221903111059,
+        "perigee": 385.7692823939938,
+        "period": 92.13996455538087
+    },
+    "45709": {
+        "name": "STARLINK-0755",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.2134822059702,
+        "perigee": 385.61467803461386,
+        "period": 92.13624925034445
+    },
+    "45710": {
+        "name": "STARLINK-0756",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.19295479306857,
+        "perigee": 385.5901015225891,
+        "period": 92.13578801218229
+    },
+    "45711": {
+        "name": "STARLINK-0757",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.5928287912374,
+        "perigee": 385.9898806818938,
+        "period": 92.14396547570377
+    },
+    "45712": {
+        "name": "STARLINK-0758",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 364.5304353191098,
+        "perigee": 307.11333316810055,
+        "period": 91.10346377248271
+    },
+    "45713": {
+        "name": "STARLINK-0759",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.6499418056877,
+        "perigee": 386.02265482505317,
+        "period": 92.14488470054555
+    },
+    "45714": {
+        "name": "STARLINK-0760",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.5920748102013,
+        "perigee": 386.0431830096552,
+        "period": 92.14450285739015
+    },
+    "45715": {
+        "name": "STARLINK-0761",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 387.4349196408065,
+        "perigee": 385.7603869423205,
+        "period": 92.14000376164125
+    },
+    "45716": {
+        "name": "STARLINK-0762",
+        "mission": 7,
+        "version": 1.0,
+        "apogee": 346.70000253103024,
+        "perigee": 276.91545112440457,
+        "period": 90.61460032278431
+    },
+    "45730": {
+        "name": "STARLINK-0801",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.3744064441733,
+        "perigee": 254.0003425304694,
+        "period": 90.56131009372137
+    },
+    "45731": {
+        "name": "STARLINK-0802",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.40289687006174,
+        "perigee": 254.18340412140265,
+        "period": 90.56346106298642
+    },
+    "45732": {
+        "name": "STARLINK-0803",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.58361766796094,
+        "perigee": 253.53696738908346,
+        "period": 90.55872588762847
+    },
+    "45733": {
+        "name": "STARLINK-0804",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 363.7037089149039,
+        "perigee": 252.33771754252817,
+        "period": 90.53758701090436
+    },
+    "45734": {
+        "name": "STARLINK-0805",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 363.1289646083964,
+        "perigee": 254.4143449723525,
+        "period": 90.55285654312235
+    },
+    "45735": {
+        "name": "STARLINK-0806",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.2116080359891,
+        "perigee": 252.45434454330615,
+        "period": 90.54393641653675
+    },
+    "45736": {
+        "name": "STARLINK-0807",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.73749005166906,
+        "perigee": 253.58760148513784,
+        "period": 90.56080520087234
+    },
+    "45737": {
+        "name": "STARLINK-0808",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 363.7769683907013,
+        "perigee": 253.5266434730729,
+        "period": 90.5504194969843
+    },
+    "45738": {
+        "name": "STARLINK-0809",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.32990698636604,
+        "perigee": 254.41506631451193,
+        "period": 90.56507438546977
+    },
+    "45739": {
+        "name": "STARLINK-0810",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 363.6380969942603,
+        "perigee": 253.40462010980397,
+        "period": 90.54776696187287
+    },
+    "45740": {
+        "name": "STARLINK-0811",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 362.9950507042762,
+        "perigee": 253.04634775767568,
+        "period": 90.53758672628442
+    },
+    "45741": {
+        "name": "STARLINK-0812",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 363.9281252120212,
+        "perigee": 254.00659035276902,
+        "period": 90.55683607917769
+    },
+    "45742": {
+        "name": "STARLINK-0813",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 363.95367995195744,
+        "perigee": 253.55206046373584,
+        "period": 90.55247456979328
+    },
+    "45743": {
+        "name": "STARLINK-0815",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.4535292076068,
+        "perigee": 254.5114924305547,
+        "period": 90.56731177299524
+    },
+    "45744": {
+        "name": "STARLINK-0816",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 363.61037672392746,
+        "perigee": 253.18656123476103,
+        "period": 90.54526813195405
+    },
+    "45745": {
+        "name": "STARLINK-0817",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.09021386026683,
+        "perigee": 252.64629044673592,
+        "period": 90.54465370817405
+    },
+    "45746": {
+        "name": "STARLINK-0818",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 363.9915203991039,
+        "perigee": 253.11229464462212,
+        "period": 90.54838814653914
+    },
+    "45747": {
+        "name": "STARLINK-0819",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 363.6381988710221,
+        "perigee": 253.4312197947968,
+        "period": 90.54803843731283
+    },
+    "45748": {
+        "name": "STARLINK-0820",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 363.9929144633692,
+        "perigee": 252.96660192268436,
+        "period": 90.5469210598511
+    },
+    "45749": {
+        "name": "STARLINK-0821",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 363.63026461429524,
+        "perigee": 252.2628382372018,
+        "period": 90.53607906258259
+    },
+    "45750": {
+        "name": "STARLINK-0822",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.217755769846,
+        "perigee": 217.78196387189814,
+        "period": 90.2018717325613
+    },
+    "45751": {
+        "name": "STARLINK-0823",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.4800797580965,
+        "perigee": 217.82899258203153,
+        "period": 90.20501293574652
+    },
+    "45752": {
+        "name": "STARLINK-0824",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 359.3120110380976,
+        "perigee": 220.9087913442282,
+        "period": 90.17365591934266
+    },
+    "45753": {
+        "name": "STARLINK-0825",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 358.9872359246444,
+        "perigee": 221.0798617430087,
+        "period": 90.17209536015187
+    },
+    "45754": {
+        "name": "STARLINK-0826",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 359.0415020463206,
+        "perigee": 221.10400744108762,
+        "period": 90.17289147179591
+    },
+    "45755": {
+        "name": "STARLINK-0827",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.8917524923412,
+        "perigee": 217.64496216599457,
+        "period": 90.19717039437657
+    },
+    "45756": {
+        "name": "STARLINK-0828",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 359.41842017076164,
+        "perigee": 221.56154953027425,
+        "period": 90.18136385357262
+    },
+    "45757": {
+        "name": "STARLINK-0829",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.03364818024636,
+        "perigee": 217.67436973927263,
+        "period": 90.198909792837
+    },
+    "45758": {
+        "name": "STARLINK-0830",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.7922586866552,
+        "perigee": 217.60694773278385,
+        "period": 90.19577415573193
+    },
+    "45759": {
+        "name": "STARLINK-0831",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 359.5140839508297,
+        "perigee": 221.46800503579527,
+        "period": 90.18138537128932
+    },
+    "45760": {
+        "name": "STARLINK-0832",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 359.2335611420134,
+        "perigee": 221.51629587007966,
+        "period": 90.17902746337653
+    },
+    "45761": {
+        "name": "STARLINK-0833",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.0187315920368,
+        "perigee": 217.70458798775823,
+        "period": 90.19906516511264
+    },
+    "45762": {
+        "name": "STARLINK-0834",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.4048214126127,
+        "perigee": 217.75011210974492,
+        "period": 90.20344778775255
+    },
+    "45763": {
+        "name": "STARLINK-0835",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.54815417921355,
+        "perigee": 217.76114632016512,
+        "period": 90.20501525251547
+    },
+    "45764": {
+        "name": "STARLINK-0836",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.2675139578795,
+        "perigee": 217.766054867764,
+        "period": 90.20221543932465
+    },
+    "45765": {
+        "name": "STARLINK-0837",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.10409801739735,
+        "perigee": 217.7353709425414,
+        "period": 90.2002445428852
+    },
+    "45766": {
+        "name": "STARLINK-0838",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.83644711910466,
+        "perigee": 217.65280637607165,
+        "period": 90.19668847981919
+    },
+    "45767": {
+        "name": "STARLINK-0840",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.7970854441961,
+        "perigee": 217.6314372962322,
+        "period": 90.19607182878427
+    },
+    "45768": {
+        "name": "STARLINK-0841",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 359.2239864154123,
+        "perigee": 221.42779899887276,
+        "period": 90.17803172468166
+    },
+    "45769": {
+        "name": "STARLINK-0842",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 363.5107395536909,
+        "perigee": 254.22145037398766,
+        "period": 90.55477693609727
+    },
+    "45770": {
+        "name": "STARLINK-0843",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 359.3724856385691,
+        "perigee": 221.57589512599725,
+        "period": 90.18104312220946
+    },
+    "45771": {
+        "name": "STARLINK-0844",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 359.12769517594387,
+        "perigee": 221.1409652982168,
+        "period": 90.17414182289947
+    },
+    "45772": {
+        "name": "STARLINK-0845",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 359.6298192598773,
+        "perigee": 220.75725638337246,
+        "period": 90.17534409672962
+    },
+    "45773": {
+        "name": "STARLINK-0846",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.2725606362121,
+        "perigee": 217.77099104092176,
+        "period": 90.20231680591611
+    },
+    "45774": {
+        "name": "STARLINK-0847",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.9157121792333,
+        "perigee": 217.66971598818338,
+        "period": 90.19766502598618
+    },
+    "45775": {
+        "name": "STARLINK-0848",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.3689080352839,
+        "perigee": 217.72948288358097,
+        "period": 90.20287364819507
+    },
+    "45776": {
+        "name": "STARLINK-0849",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.13436710835526,
+        "perigee": 217.72675842107367,
+        "period": 90.20046444369476
+    },
+    "45777": {
+        "name": "STARLINK-0850",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.4511229760973,
+        "perigee": 217.78485543414857,
+        "period": 90.20427072821352
+    },
+    "45778": {
+        "name": "STARLINK-0851",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 359.31556953226493,
+        "perigee": 221.64146076399552,
+        "period": 90.18113094330148
+    },
+    "45779": {
+        "name": "STARLINK-0852",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 359.3319950157385,
+        "perigee": 221.4742573196972,
+        "period": 90.17960005696821
+    },
+    "45780": {
+        "name": "STARLINK-0853",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.34001329607423,
+        "perigee": 217.7144004569864,
+        "period": 90.20242710025884
+    },
+    "45781": {
+        "name": "STARLINK-0854",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 355.2881405846672,
+        "perigee": 222.50973545734212,
+        "period": 90.14905707110053
+    },
+    "45782": {
+        "name": "STARLINK-0855",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.0740662316615,
+        "perigee": 217.7033603711771,
+        "period": 90.19961456577201
+    },
+    "45783": {
+        "name": "STARLINK-0856",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.18587062187584,
+        "perigee": 217.7441870408319,
+        "period": 90.20116438177511
+    },
+    "45784": {
+        "name": "STARLINK-0857",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 364.9576359443283,
+        "perigee": 217.69754428894444,
+        "period": 90.1983732823599
+    },
+    "45785": {
+        "name": "STARLINK-0858",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 359.11231019331143,
+        "perigee": 221.09029454741628,
+        "period": 90.17347115878329
+    },
+    "45786": {
+        "name": "STARLINK-0859",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.47803557299636,
+        "perigee": 217.8454442081526,
+        "period": 90.20515923146257
+    },
+    "45787": {
+        "name": "STARLINK-0860",
+        "mission": 8,
+        "version": 1.0,
+        "apogee": 365.56466337808314,
+        "perigee": 217.83264610648249,
+        "period": 90.20590891263026
+    }
+}
